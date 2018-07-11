@@ -1,11 +1,7 @@
 [
     {
-        "name": "iPhone X",
-        "transactionID": "ABC123",
-        "productID": "1",
-        "warehouseID": "ATL1",
-        "quantity": 1,
-        "status": "Inbound"
-
+        "id": 1,
+        "name": "john",
+        "age": 41
     }
 ]
