@@ -1,0 +1,11 @@
+[
+    {
+        "name": "iPhone X",
+        "transactionID": "ABC123",
+        "productID": "1",
+        "warehouseID": "ATL1",
+        "quantity": 1,
+        "status": "Inbound"
+
+    }
+]
